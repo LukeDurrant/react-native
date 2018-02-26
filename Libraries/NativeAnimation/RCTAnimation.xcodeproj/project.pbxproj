@@ -157,7 +157,7 @@
 		1980B7311E80D21C004DC789 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
-			dstPath = include/RCTAnimation;
+			dstPath = include/React;
 			dstSubfolderSpec = 16;
 			files = (
 				194804EF1E975DB500623005 /* RCTDecayAnimation.h in CopyFiles */,
