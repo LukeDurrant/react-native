@@ -1116,7 +1116,6 @@
 		59EDBCAE1FDF4E0C003573DE /* RCTScrollContentView.h in Headers */ = {isa = PBXBuildFile; fileRef = 59EDBC9F1FDF4E0C003573DE /* RCTScrollContentView.h */; };
 		59EDBCAF1FDF4E0C003573DE /* RCTScrollContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EDBCA01FDF4E0C003573DE /* RCTScrollContentView.m */; };
 		59EDBCB01FDF4E0C003573DE /* RCTScrollContentView.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EDBCA01FDF4E0C003573DE /* RCTScrollContentView.m */; };
-		59EDBCB11FDF4E0C003573DE /* (null) in Headers */ = {isa = PBXBuildFile; };
 		59EDBCB21FDF4E0C003573DE /* (null) in Headers */ = {isa = PBXBuildFile; };
 		59EDBCB31FDF4E0C003573DE /* (null) in Sources */ = {isa = PBXBuildFile; };
 		59EDBCB41FDF4E0C003573DE /* (null) in Sources */ = {isa = PBXBuildFile; };
@@ -1129,9 +1128,7 @@
 		59EDBCBB1FDF4E0C003573DE /* RCTScrollViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EDBCA61FDF4E0C003573DE /* RCTScrollViewManager.m */; };
 		59EDBCBC1FDF4E0C003573DE /* RCTScrollViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 59EDBCA61FDF4E0C003573DE /* RCTScrollViewManager.m */; };
 		59EDBCBD1FDF4E43003573DE /* RCTScrollableProtocol.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 59EDBC9C1FDF4E0C003573DE /* RCTScrollableProtocol.h */; };
-		59EDBCBE1FDF4E43003573DE /* (null) in Copy Headers */ = {isa = PBXBuildFile; };
 		59EDBCBF1FDF4E43003573DE /* RCTScrollContentView.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 59EDBC9F1FDF4E0C003573DE /* RCTScrollContentView.h */; };
-		59EDBCC01FDF4E43003573DE /* (null) in Copy Headers */ = {isa = PBXBuildFile; };
 		59EDBCC11FDF4E43003573DE /* RCTScrollView.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 59EDBCA31FDF4E0C003573DE /* RCTScrollView.h */; };
 		59EDBCC21FDF4E43003573DE /* RCTScrollViewManager.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 59EDBCA51FDF4E0C003573DE /* RCTScrollViewManager.h */; };
 		59EDBCC31FDF4E55003573DE /* RCTScrollableProtocol.h in Copy Headers */ = {isa = PBXBuildFile; fileRef = 59EDBC9C1FDF4E0C003573DE /* RCTScrollableProtocol.h */; };
@@ -1591,9 +1588,7 @@
 			files = (
 				591F78DE202ADB8F004A668C /* RCTLayout.h in Copy Headers */,
 				59EDBCBD1FDF4E43003573DE /* RCTScrollableProtocol.h in Copy Headers */,
-				59EDBCBE1FDF4E43003573DE /* (null) in Copy Headers */,
 				59EDBCBF1FDF4E43003573DE /* RCTScrollContentView.h in Copy Headers */,
-				59EDBCC01FDF4E43003573DE /* (null) in Copy Headers */,
 				59EDBCC11FDF4E43003573DE /* RCTScrollView.h in Copy Headers */,
 				59EDBCC21FDF4E43003573DE /* RCTScrollViewManager.h in Copy Headers */,
 				594F0A381FD233A2007FBE96 /* RCTSurface.h in Copy Headers */,
@@ -3484,7 +3479,6 @@
 				594F0A361FD23228007FBE96 /* RCTSurfaceSizeMeasureMode.h in Headers */,
 				3D80DA391DF820620028D040 /* RCTNullability.h in Headers */,
 				3D80DA3A1DF820620028D040 /* RCTParserUtils.h in Headers */,
-				59EDBCB11FDF4E0C003573DE /* (null) in Headers */,
 				599FAA421FB274980058CCF6 /* RCTSurfaceRootView.h in Headers */,
 				59D031F91F8353D3008361F0 /* RCTSafeAreaViewManager.h in Headers */,
 				3D80DA3B1DF820620028D040 /* RCTPerformanceLogger.h in Headers */,
