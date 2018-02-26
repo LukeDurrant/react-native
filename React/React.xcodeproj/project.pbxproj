@@ -48,9 +48,9 @@
 		13134CA31E296B2A00B9F3CB /* RCTCxxUtils.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13134C831E296B2A00B9F3CB /* RCTCxxUtils.mm */; };
 		131B6AF41AF1093D00FFC3E0 /* RCTSegmentedControl.m in Sources */ = {isa = PBXBuildFile; fileRef = 131B6AF11AF1093D00FFC3E0 /* RCTSegmentedControl.m */; };
 		131B6AF51AF1093D00FFC3E0 /* RCTSegmentedControlManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 131B6AF31AF1093D00FFC3E0 /* RCTSegmentedControlManager.m */; };
-		133957881DF76D3500EC27BE /* YGEnums.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77031DF767AF001F9587 /* YGEnums.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		133957891DF76D3500EC27BE /* YGMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77041DF767AF001F9587 /* YGMacros.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		1339578B1DF76D3500EC27BE /* Yoga.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77081DF767AF001F9587 /* Yoga.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		133957881DF76D3500EC27BE /* YGEnums.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77031DF767AF001F9587 /* YGEnums.h */; };
+		133957891DF76D3500EC27BE /* YGMacros.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77041DF767AF001F9587 /* YGMacros.h */; };
+		1339578B1DF76D3500EC27BE /* Yoga.h in Headers */ = {isa = PBXBuildFile; fileRef = 130A77081DF767AF001F9587 /* Yoga.h */; };
 		13456E931ADAD2DE009F94A7 /* RCTConvert+CoreLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = 13456E921ADAD2DE009F94A7 /* RCTConvert+CoreLocation.m */; };
 		134D63C31F1FEC4B008872B5 /* RCTCxxBridgeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 134D63C21F1FEC4B008872B5 /* RCTCxxBridgeDelegate.h */; };
 		134D63C41F1FEC65008872B5 /* RCTCxxBridgeDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 134D63C21F1FEC4B008872B5 /* RCTCxxBridgeDelegate.h */; };
@@ -3359,14 +3359,14 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1339578B1DF76D3500EC27BE /* Yoga.h in Headers */,
-				133957881DF76D3500EC27BE /* YGEnums.h in Headers */,
-				133957891DF76D3500EC27BE /* YGMacros.h in Headers */,
 				5352C5772038FF9A00A3B97E /* YGStyle.h in Headers */,
 				53EC85E51FDEC7630051B2B5 /* YGNode.h in Headers */,
 				53D1239E1FBF1EFB001B8A10 /* Yoga-internal.h in Headers */,
+				133957881DF76D3500EC27BE /* YGEnums.h in Headers */,
+				1339578B1DF76D3500EC27BE /* Yoga.h in Headers */,
 				53756E3C2004FFFC00FBBD99 /* Utils.h in Headers */,
 				5376C5E61FC6DDC10083513D /* YGNodePrint.h in Headers */,
+				133957891DF76D3500EC27BE /* YGMacros.h in Headers */,
 				53438964203905BF008E0CB3 /* YGLayout.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
